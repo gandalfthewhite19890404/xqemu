@@ -1,48 +1,48 @@
 [submodule "roms/vgabios"]
 	path = roms/vgabios
-	url = http://git.qemu.org/vgabios.git
+	url = https://git.qemu.org/vgabios.git
 [submodule "roms/seabios"]
 	path = roms/seabios
-	url = http://git.qemu.org/seabios.git
+	url = https://git.qemu.org/seabios.git
 [submodule "roms/SLOF"]
 	path = roms/SLOF
-	url = http://git.qemu.org/SLOF.git
+	url = https://git.qemu.org/SLOF.git
 [submodule "roms/ipxe"]
 	path = roms/ipxe
-	url = http://git.qemu.org/ipxe.git
+	url = https://git.qemu.org/ipxe.git
 [submodule "roms/openbios"]
 	path = roms/openbios
-	url = http://git.qemu.org/openbios.git
+	url = https://git.qemu.org/openbios.git
 [submodule "roms/openhackware"]
 	path = roms/openhackware
-	url = http://git.qemu.org/openhackware.git
+	url = https://git.qemu.org/openhackware.git
 [submodule "roms/qemu-palcode"]
 	path = roms/qemu-palcode
-	url = http://git.qemu.org/qemu-palcode.git
+	url = https://git.qemu.org/qemu-palcode.git
 [submodule "roms/sgabios"]
 	path = roms/sgabios
-	url = http://git.qemu.org/sgabios.git
+	url = https://git.qemu.org/sgabios.git
 [submodule "dtc"]
 	path = dtc
-	url = http://git.qemu.org/dtc.git
+	url = https://git.qemu.org/dtc.git
 [submodule "roms/u-boot"]
 	path = roms/u-boot
-	url = http://git.qemu.org/u-boot.git
+	url = https://git.qemu.org/u-boot.git
 [submodule "roms/skiboot"]
 	path = roms/skiboot
-	url = http://git.qemu.org/skiboot.git
+	url = https://git.qemu.org/skiboot.git
 [submodule "roms/QemuMacDrivers"]
 	path = roms/QemuMacDrivers
-	url = http://git.qemu.org/QemuMacDrivers.git
+	url = https://git.qemu.org/QemuMacDrivers.git
 [submodule "ui/keycodemapdb"]
 	path = ui/keycodemapdb
-	url = http://git.qemu.org/keycodemapdb.git
+	url = https://git.qemu.org/keycodemapdb.git
 [submodule "capstone"]
 	path = capstone
-	url = http://git.qemu.org/capstone.git
+	url = https://git.qemu.org/capstone.git
 [submodule "roms/seabios-hppa"]
 	path = roms/seabios-hppa
-	url = 	http://git.qemu.org/seabios-hppa.git
+	url = 	https://git.qemu.org/seabios-hppa.git
 [submodule "roms/u-boot-sam460ex"]
 	path = roms/u-boot-sam460ex
-	url = http://git.qemu.org/u-boot-sam460ex.git
+	url = https://git.qemu.org/u-boot-sam460ex.git

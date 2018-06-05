@@ -36,7 +36,7 @@
 	url = git://git.qemu.org/git/QemuMacDrivers.git
 [submodule "ui/keycodemapdb"]
 	path = ui/keycodemapdb
-	url = git://git.qemu.org/keycodemapdb.git
+	url = http://git.qemu.org/git/keycodemapdb.git
 [submodule "capstone"]
 	path = capstone
 	url = git://git.qemu.org/capstone.git
